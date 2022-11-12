@@ -1,0 +1,36 @@
+h5 {
+  color: black;
+}
+
+/* #price .name{
+  color:pink;
+}
+
+#value {
+  color: pink;
+} */
+
+div h1.name {
+  color: purple;
+}
+
+ul .imp {
+  font-size: 20px;
+}
+#mu {
+  font-size: 30px;
+}
+/* * {
+  font-size: 10px;
+} */
+/* div p:first-child {
+  font-style: italic;
+} */
+p:first-child {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-style: italic;
+}
+
+ul li:only-child {
+  color: darkmagenta;
+}
